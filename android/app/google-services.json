@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728608716658",
+    "project_id": "phoneauth-5883d",
+    "storage_bucket": "phoneauth-5883d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728608716658:android:a373d976619630facc0feb",
+        "android_client_info": {
+          "package_name": "com.makaju.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728608716658-v2kn74rdrero4ahvp2k50f691qb70cqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BaOOd7BelQVqiagLHvCFuBqqVVLIPMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728608716658-v2kn74rdrero4ahvp2k50f691qb70cqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
